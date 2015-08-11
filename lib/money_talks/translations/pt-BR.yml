@@ -107,7 +107,7 @@ errors:
   '902': 'Shouldnt have gotten here without a request!'
   '903': 'Internal error'
   '904': 'Unable To Process'
-  '905': 'Payment details are not supported'
+  '905': 'Pagamento não suportado'
   '906': 'Invalid Request: Original pspReference is invalid for this environment!'
   '950': 'Invalid AcquirerAccount'
   '951': 'Confguration Error (acquirerIdentifcation)'
