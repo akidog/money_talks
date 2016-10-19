@@ -20,8 +20,7 @@ Gem::Specification.new do |gem|
 
   gem.require_paths = ['lib']
 
- # gem.add_dependency 'savon', '= 2.3.2'
-  gem.add_dependency  'savon', '~> 2.10.0'
+  gem.add_dependency  'savon', '~> 2.10'
   gem.add_dependency 'activesupport'
 
   gem.add_development_dependency 'pry'
